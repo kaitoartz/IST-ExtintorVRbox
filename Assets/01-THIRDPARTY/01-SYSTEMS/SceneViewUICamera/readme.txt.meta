@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 58e21a922a96feb44a2b8fc8904ee947
+timeCreated: 1429181062
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 34807
+  packageName: Scene View UI Camera
+  packageVersion: 1.0
+  assetPath: Assets/01-THIRDPARTY/01-SYSTEMS/SceneViewUICamera/readme.txt
+  uploadId: 64052

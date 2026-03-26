@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e6931c146ebc0d4f9479c57f1f1279a, type: 3}
+  m_Name: SO-Parte2
+  m_EditorClassIdentifier: 
+  clip: {fileID: 8300000, guid: 83fe2c261d387474b9141b721aef5243, type: 3}
+  paragraphs:
+  - "Bien, ahora te toca a ti. Ac\xE9rcate y toma el extintor que tienes enfrente.\r\n\r\n"
+  - "Siente el peso y aseg\xFArate de tener un buen agarre con tu mano h\xE1bil en
+    la manilla de transporte.\r\n\r"
+  paragraphFadeDuration: 0.2
+  autoTransitionToNext: 0
+  nextVoiceOver: {fileID: 0}
+  nextVoiceOverFadeDuration: 1.5
+  postAudioDelay: 0

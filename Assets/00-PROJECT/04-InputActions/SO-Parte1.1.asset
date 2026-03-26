@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e6931c146ebc0d4f9479c57f1f1279a, type: 3}
+  m_Name: SO-Parte1.1
+  m_EditorClassIdentifier: 
+  clip: {fileID: 8300000, guid: 935ae02ab68cfb74387f49e1919bc013, type: 3}
+  paragraphs:
+  - "Antes de empezar, pongamos atenci\xF3n a este breve repaso. F\xEDjate bien las
+    partes claves como:"
+  - "La palanca activadora, el Pasador de Seguridad, el man\xF3metro y la Boquilla
+    de la manguera."
+  paragraphFadeDuration: 0.2
+  autoTransitionToNext: 0
+  nextVoiceOver: {fileID: 0}
+  nextVoiceOverFadeDuration: 0.5
+  postAudioDelay: 2

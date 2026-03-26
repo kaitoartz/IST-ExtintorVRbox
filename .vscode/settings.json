@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "TorreAltaTension.sln"
+    "dotnet.defaultSolution": "IST-ExtintorVRbox.slnx"
 }

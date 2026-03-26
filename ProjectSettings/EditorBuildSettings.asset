@@ -5,20 +5,41 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/00-PROJECT_TorreAltaTension/06-Packages/AutoHand/Examples/Scenes/OpenXR/XRHands.unity
-    guid: aeecf2324ad45cd4781c5da04580100a
   - enabled: 1
+    path: Assets/00-PROJECT/00-Scenes/Main-00.unity
+    guid: 719e45d12e7baa74fbca7598f7eeba26
+  - enabled: 0
+    path: Assets/00-PROJECT/00-Scenes/Scene-Main/Main-00.unity
+    guid: 9b5aa6428ba7a6246bd201ba8d95cebe
+  - enabled: 0
+    path: Assets/THIRDPARTY/AutoHand/Examples/Scenes/OpenXR/XRHands.unity
+    guid: aeecf2324ad45cd4781c5da04580100a
+  - enabled: 0
     path: Assets/00-PROJECT_TorreAltaTension/00-Scenes/Main/MainRecovery.unity
     guid: ff7140c6cde37914fb5f806a601d3551
+  - enabled: 0
+    path: "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Example Scenes/ComprehensiveRigExample.unity"
+    guid: 2efe93cb8972cae439bfba2dcd4165f0
+  - enabled: 0
+    path: Assets/00-PROJECT/00-Scenes/Scene-Main/TEST.unity
+    guid: 02837aebee9a3ad4c81842082727e4eb
   m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: ea9500ae32862c949b420c59682d02ed,
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: acd45d940718e7e4ca0f885f08881c6f,
+      type: 2}
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000,
+      guid: 1a5eb50cd6286d44bb3152aa89f64082, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: dad0b737261f2c941a4f77591cc0f6e7,
+      type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: b665a88a9e05aec419b5ab6a452cef3a, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 6e2e0dc79f8217d42a5c8e41d8cfcb22,
       type: 3}
-    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 98a0d69b76d72ea4f8651f6122473604,
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: add0c523130cfbf469a96cd52aea1f35,
       type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fce87967a20ffaa4a87d48255458903a,
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 285b535ad907c094495d66927c6acff9,
       type: 2}
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 4f625f2257b13d843b7f396046d18ca8,
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 60d59394376b24443a97525b11a74128,
       type: 2}
     xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 68fa2ea74648aa943a5001125f95036b,
       type: 2}
+  m_UseUCBPForAssetBundles: 0

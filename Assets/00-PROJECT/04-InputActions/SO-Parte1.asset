@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e6931c146ebc0d4f9479c57f1f1279a, type: 3}
+  m_Name: SO-Parte1
+  m_EditorClassIdentifier: 
+  clip: {fileID: 8300000, guid: 29f04382c1383b64d975951c2acec462, type: 3}
+  paragraphs:
+  - "\xA1Hola! Un gusto saludarte. Bienvenido a este curso de Prevenci\xF3n de incendios
+    y uso de extintores port\xE1tiles.\r\n\n"
+  - "Ya revisamos la teor\xEDa, as\xED que ahora vamos a lo importante: la parte
+    pr\xE1ctica. Queremos que te sientas seguro operando este equipo."
+  paragraphFadeDuration: 0.2
+  autoTransitionToNext: 1
+  nextVoiceOver: {fileID: 11400000, guid: ca802e536a9ab7e4b8ba30f4d19f4901, type: 2}
+  nextVoiceOverFadeDuration: 1.5
+  postAudioDelay: 0

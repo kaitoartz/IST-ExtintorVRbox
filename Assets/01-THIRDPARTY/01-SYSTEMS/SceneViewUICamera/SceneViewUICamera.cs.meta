@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7d67fb6e6fe034e408d91ae549835ac4
+timeCreated: 1429201777
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 34807
+  packageName: Scene View UI Camera
+  packageVersion: 1.0
+  assetPath: Assets/01-THIRDPARTY/01-SYSTEMS/SceneViewUICamera/SceneViewUICamera.cs
+  uploadId: 64052
