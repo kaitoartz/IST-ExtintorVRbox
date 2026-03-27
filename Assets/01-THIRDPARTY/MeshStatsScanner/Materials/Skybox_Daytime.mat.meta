@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 95e25febeca56dd42b880d3d4da7e4ce
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 317643
+  packageName: Mesh Stats Scanner
+  packageVersion: 2.0.0
+  assetPath: Assets/MeshStatsScanner/Materials/Skybox_Daytime.mat
+  uploadId: 758337

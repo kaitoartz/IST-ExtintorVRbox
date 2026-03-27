@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: e0b725309789aa14488a8900db45909b
+AssetOrigin:
+  serializedVersion: 1
+  productId: 317643
+  packageName: Mesh Stats Scanner
+  packageVersion: 2.0.0
+  assetPath: Assets/MeshStatsScanner/Editor/MeshStatsScanner.cs
+  uploadId: 758337

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1a921b24e1af52444a1787b0bfcbab99
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 317643
+  packageName: Mesh Stats Scanner
+  packageVersion: 2.0.0
+  assetPath: Assets/MeshStatsScanner/Materials/White.mat
+  uploadId: 758337

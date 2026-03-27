@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 92c336ee0963e9a43bf231ca1999b4c5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 317643
+  packageName: Mesh Stats Scanner
+  packageVersion: 2.0.0
+  assetPath: Assets/MeshStatsScanner/Scenes/Demo/LightingData.asset
+  uploadId: 758337

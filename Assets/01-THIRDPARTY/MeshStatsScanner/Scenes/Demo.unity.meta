@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 56bb01e1d026ce249aa1b1d505dbc0eb
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 317643
+  packageName: Mesh Stats Scanner
+  packageVersion: 2.0.0
+  assetPath: Assets/MeshStatsScanner/Scenes/Demo.unity
+  uploadId: 758337

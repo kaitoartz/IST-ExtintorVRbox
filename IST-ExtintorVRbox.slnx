@@ -29,8 +29,8 @@
   <Project Path="MCPForUnity.Editor.csproj" />
   <Project Path="Unity.AdaptivePerformance.csproj" />
   <Project Path="PPv2URPConverters.csproj" />
-  <Project Path="Assembly-CSharp.csproj" />
   <Project Path="Unity.RenderPipelines.Core.Runtime.Shared.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
   <Project Path="Unity.TextMeshPro.Editor.csproj" />
   <Project Path="Unity.InternalAPIEditorBridge.001.csproj" />
   <Project Path="Unity.2D.SpriteShape.Runtime.csproj" />
@@ -52,6 +52,7 @@
   <Project Path="Unity.Burst.Editor.csproj" />
   <Project Path="Unity.2D.Common.Editor.csproj" />
   <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="Whinarn.IndMeshSimplifier.Runtime.csproj" />
   <Project Path="Unity.AdaptivePerformance.Google.Android.Editor.csproj" />
   <Project Path="UnityUIExtensions.editor.csproj" />
   <Project Path="TransformEnhancer.Runtime.csproj" />
@@ -72,6 +73,7 @@
   <Project Path="Unity.ShaderGraph.Utilities.csproj" />
   <Project Path="OmniShade.Editor.csproj" />
   <Project Path="Unity.Profiling.Core.csproj" />
+  <Project Path="Whinarn.IndMeshSimplifier.Editor.csproj" />
   <Project Path="HueFolders.Editor.csproj" />
   <Project Path="CardboardSamples.csproj" />
   <Project Path="UnityEngine.XR.LegacyInputHelpers.csproj" />

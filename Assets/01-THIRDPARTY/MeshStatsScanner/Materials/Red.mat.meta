@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 14d57ba6e205c80489f306232e02181d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 317643
+  packageName: Mesh Stats Scanner
+  packageVersion: 2.0.0
+  assetPath: Assets/MeshStatsScanner/Materials/Red.mat
+  uploadId: 758337

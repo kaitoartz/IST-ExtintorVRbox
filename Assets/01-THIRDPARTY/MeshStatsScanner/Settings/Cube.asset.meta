@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 89efef99e41ffe8448283b37b44f6169
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 317643
+  packageName: Mesh Stats Scanner
+  packageVersion: 2.0.0
+  assetPath: Assets/MeshStatsScanner/Settings/Cube.asset
+  uploadId: 758337

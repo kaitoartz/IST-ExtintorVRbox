@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d0fa5394c05ea044986c039acc2f4e54
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 317643
+  packageName: Mesh Stats Scanner
+  packageVersion: 2.0.0
+  assetPath: Assets/MeshStatsScanner/README.pdf
+  uploadId: 758337
